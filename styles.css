@@ -55,3 +55,10 @@ body {
   border-color: #baabda;
   outline: none;
 }
+@media (max-width: 1000px) {
+    #Title{
+        font-size: 2rem;
+    }
+    
+    
+}
